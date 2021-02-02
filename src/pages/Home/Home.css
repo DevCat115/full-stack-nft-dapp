@@ -1,0 +1,10 @@
+.home {
+	padding-top: 5%;
+	text-align: center;
+	background-image: linear-gradient(
+		120deg,
+		rgba(0, 0, 0, 0),
+		rgba(51, 86, 198, 1)
+	);
+	height: 100vh;
+}
